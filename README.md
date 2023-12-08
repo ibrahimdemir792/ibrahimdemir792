@@ -18,12 +18,6 @@
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-- - - 
-
 ### 👨‍💻 About Me:
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 - 🆕 I graduated from Civil Engineering and switched to software engineering. I have been coding since september,2023
