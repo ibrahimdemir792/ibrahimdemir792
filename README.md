@@ -9,8 +9,8 @@
   <a href="https://stackoverflow.com/users/22827036/ibrahim792?tab=profile">
     <img src="https://img.shields.io/badge/StackOverFlow-orange?logo=Stackoverflow&logoColor=white&style=for-the-badge" alt="Stackoverflow Badge"/>
   </a>
-  <a href="https://x.com/ibrahimdemir792">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/ad59fcfb04f69258fafb6772c684804a3f5fccff/icons/x.svg" />
+  <a href="https://x.com/ibrahimdemir792" style=>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/ad59fcfb04f69258fafb6772c684804a3f5fccff/icons/x.svg" style="width: 150px; height: 28px; background-color: black; padding: 4px; border-radius: 3px;" alt="X Badge" />
   </a>
   <div>
     <img src="https://komarev.com/ghpvc/?username=ibrahimdemir792&style=flat-square&color=blue" alt=""/>
