@@ -9,6 +9,9 @@
   <a href="https://stackoverflow.com/users/22827036/ibrahim792?tab=profile">
     <img src="https://img.shields.io/badge/StackOverFlow-orange?logo=Stackoverflow&logoColor=white&style=for-the-badge" alt="Stackoverflow Badge"/>
   </a>
+  <a href="https://x.com/ibrahimdemir792">
+    <img src="https://i.pinimg.com/736x/69/a6/2a/69a62a5edc08d755dd8a4ef017e14c63.jpg" alt="x icon"/>
+  </a>
   <div>
     <img src="https://komarev.com/ghpvc/?username=ibrahimdemir792&style=flat-square&color=blue" alt=""/>
   </div>
@@ -19,9 +22,10 @@
 </div>
 
 ### 👨‍💻 About Me:
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+I am a human Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I'm interested with web programming
-- 🔭 Working from home and getting small bids.
+- 🔭 Indiehacking, Solopreneur
+- Building SaaS
 
 ---
 
